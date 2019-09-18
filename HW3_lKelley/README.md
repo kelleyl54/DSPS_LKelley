@@ -1,4 +1,1 @@
-For this homework assignment, I worked in a group with Victor Ramirez, Shea Fitzgerald, Ben Salis, and Mike Richardson
-
-Since the majority of this homework was rather linear, we worked simultaneously while asking each other questions about the process as it occurred.
-I was able to complete most of the manipulation of the data into acceptable forms by myself, but the actual analysis was mostly done by Shea, who had the best grasp on the coding concepts of the algorithm. 
+This assignment was completed in close coordination with Victor Ramirez and Shea Fitzgerald, with supplementary talks with Mike Richardson and Ben Salis. Liam Kelley worked individually through most of the preliminary parts of the assignment unil the begining of the "Data Exploration" section of the notebook. From there, L.K. and V.R. worked with S.F. on generating the histograms for that section. The data analysis algortihm was primarily written by S.F. with small adjustments by L.K. to make the code work. From there, V.R. and S.F. generated the replicated figure. L.K. generated the table on his own.
