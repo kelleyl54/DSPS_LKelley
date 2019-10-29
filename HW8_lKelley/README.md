@@ -3,7 +3,7 @@
 
 Here is my created figure for this homework:
 
-![nfl](https://github.com/kelleyl54/DSPS_LKelley/blob/master/hw%208%20nfl%20image.png)
+![nfl](https://github.com/kelleyl54/DSPS_LKelley/blob/master/hw%208%20nfl%20image2.png)
 
 Caption: This figure shows the distribution of a few metrics of offenses in the National Football League. Teams are plotted comparing
 their average points per game and average yards per game, also comparing to the two year average for the league. If this graph was a part
