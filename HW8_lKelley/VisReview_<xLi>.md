@@ -1,3 +1,9 @@
-![](./Hilo06figure.png)
+![](../Hilo06figure.png)
+
+
+Review:
+
+Hi Liam,
+
 
 
